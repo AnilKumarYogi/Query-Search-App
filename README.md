@@ -1,6 +1,6 @@
 # Project Overview
 
-This React.js application is a user query search tool that enables users to filter and display data in a table format. The mock data is generated using [Mockaroo](https://www.mockaroo.com/), and the user can perform queries based on the first name, last name, and gender columns. All the rows are displayed initialy when user is yet to make a query.
+This React.js application is a user query search tool that enables users to filter and display data in a table format. The mock data is generated using [Mockaroo](https://www.mockaroo.com/), and the user can perform queries based on the first name, last name, and gender columns. All the rows are displayed initialy when the user is yet to make a query.
 
 ## **Features**
 
@@ -17,6 +17,11 @@ This React.js application is a user query search tool that enables users to filt
 
 - React.js
 - React-Bootstrap
+  
+## Page Load Time
+![Application Load Time Screenshot](pageLoadTime.png)
+
+The above load time is less than 1 second, 752 ms to be precise. It is measured using the following chrome extension [Page load time](https://chromewebstore.google.com/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig) 
 
 ## Getting Started
 
