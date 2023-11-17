@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Container>
-        <h1 className='text-center mt-4'>Query firstName App </h1>
+        <h1 className='text-center mt-4'>Query Search App </h1>
         <Form>
           <InputGroup className='my-3'>
 
